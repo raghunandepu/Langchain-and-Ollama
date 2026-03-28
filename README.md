@@ -2,7 +2,7 @@
 
 A hands-on LangChain and Ollama learning repository which demonstrates practical applications of modern conversational AI, prompt engineering, document loading, retrieval-augmented generation (RAG), tool calling, and agent orchestration.
 
-## Why this repo matters for recruiters
+## Why this repo matters
 
 - Real-world LangChain workflows using `langchain`, `langchain-core`, `langchain-ollama`, and `langchain-community`
 - Full pipeline coverage: prompt templates, chains, output parsing, memory, document loaders, vector retrieval, RAG, agents, and tool calling
