@@ -90,3 +90,8 @@ streamlit run "07. Build Your Own Chatbot/chat_stream.py"
 ## Note
 
 This repository is designed to showcase learning and applied experience with conversational AI systems, from model interaction and prompt engineering to retrieval workflows and agent-based tooling. It is a strong demonstration of both conceptual understanding and implementation ability in modern AI application development.
+
+## Credits
+
+- https://www.linkedin.com/in/kgp-talkie-7254b6194/?originalSubdomain=in
+
